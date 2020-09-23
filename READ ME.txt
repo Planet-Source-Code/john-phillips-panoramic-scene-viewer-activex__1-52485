@@ -1,0 +1,21 @@
+Here it is, the first of it's kind on PSC, a Panoramic Image Viewer ActiveX Control. I am sure most of you have already seen such panoramic views on some web sites. If you have not then let me give a little explination.
+
+It is sort of like being in the center of a room and spining in a complete circle while standing in the same spot.
+
+To get this effect in an application there are few things to do. 
+First you need either a Digital camera or a regular camera and a scanner. then you need an image stitching program. there are a few out there. If you email me I will give you links to the ones that i use, but they are not free and I had to pay for them, but I think there are some shareware ones out there.
+
+I am not really going to get into detail on how to make the image but Here is what you need to do.
+
+If you setup a camera in the center of a room and spin the camera in a complete 360 deg circle taking picture every few degrees. then upload those pictures to your computer. 
+
+Then using the image stiching program you stitch the images together until you get one long image that is actually a 360 deg view of the room.
+
+That's it, you are ready to use that image in this control (or any pamoramic control).
+
+OK about this control. I created this control as part of a bigger project at work. Then I decided (since i created the control at home) that maybe I could sell the control. well this version i uploaded is a stripped down version of the actual control I am planning to market, but I think anyone who needs to add this type of functionality to any of there projects can figure out what they need to do. this control is fully working (except for the zoom feature) which was causing problems when I removed some of the other code. I commented as much as i could, if there is anything you do not understand please email me and I will try to answer your question ASAP. And if you like it please do vote.
+
+PS - If there are any bugs please let me know ASAP so I can correct them. Also this code is copyright © by John Phillips, You can use this code in any of your projects as long as you do not plan to sell the code or the control for profit.
+
+-John Phillips
+vbjack@nyc.rr.com
